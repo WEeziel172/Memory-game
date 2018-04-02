@@ -20,3 +20,7 @@ The game ends when the time has run out.
 
 Author:
 Sam
+
+
+Credits
+Big thanks to whole udacity team for the amazing teaching, and big thank you for the W3 Resources/schools for providing amazing amount of resources to learn from.
